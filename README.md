@@ -19,4 +19,4 @@ O objetivo deste aplicativo foi aprofundar os conhecimentos no desenvolvimento A
 # Autor
 Murilo Steinmetz Böhlke
 
-https://www.linkedin.com/murilobohlke
+https://www.linkedin.com/in/murilobohlke/
